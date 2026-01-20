@@ -1,10 +1,3 @@
-# uidai-biometric-data-analysis
-
-Below is a **clean, professional, GitHub-ready README.md** for your **UIDAI Aadhaar Data Analysis project**, written to match **exactly what you have built and discussed**.
-You can **copy–paste this directly** into your GitHub repository.
-
----
-
 # 📊 UIDAI Aadhaar Biometric Data Analysis
 
 **Unlocking Societal Trends in Aadhaar Enrolment & Update Activities**
